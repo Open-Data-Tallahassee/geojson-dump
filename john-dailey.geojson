@@ -657,7 +657,7 @@
 { "type": "Feature", "properties": { "name": "Lonnie  Drapper", "address 1": "565 Frank Shaw Rd", "cont. type": "I", "amount": 50.0 }, "geometry": { "type": "Point", "coordinates": [ -84.2849484, 30.5207766 ] } },
 { "type": "Feature", "properties": { "name": "Joseph  Brown", "address 1": "601 Lothian Drive", "cont. type": "I", "amount": 100.0 }, "geometry": { "type": "Point", "coordinates": [ -84.2750774, 30.484567 ] } },
 { "type": "Feature", "properties": { "name": "John  Wallace", "address 1": "323 E Park Ave", "cont. type": "I", "amount": 100.0 }, "geometry": { "type": "Point", "coordinates": [ -84.2785119, 30.4416417 ] } },
-{ "type": "Feature", "properties": { "name": "Amy  Zublay", "address 1": "6352 Glasgow Dr", "cont. type": "I", "amount": 500.0 }, "geometry": { "type": "Point", "coordinates": [ -4.251806, 55.864237 ] } },
+{ "type": "Feature", "properties": { "name": "Amy  Zublay", "address 1": "6352 Glasgow Dr", "cont. type": "I", "amount": 500.0 }, "geometry": { "type": "Point", "coordinates": [ -84.2660481, 30.5657749 ] } },
 { "type": "Feature", "properties": { "name": "Frances  Berry", "address 1": "1540 Marion Ave", "cont. type": "I", "amount": 200.0 }, "geometry": { "type": "Point", "coordinates": [ -84.2660276, 30.4621072 ] } },
 { "type": "Feature", "properties": { "name": "Everytown for Gun Safety", "address 1": "One World Trade Center, 41st Floor", "cont. type": "F", "amount": 1000.0 }, "geometry": { "type": "Point", "coordinates": [ -74.0133795, 40.7127431 ] } },
 { "type": "Feature", "properties": { "name": "Timothy J Meenan", "address 1": "9646 Deer Valley Dr ", "cont. type": "I", "amount": 500.0 }, "geometry": { "type": "Point", "coordinates": [ -84.2278384, 30.6008052 ] } },
